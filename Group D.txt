@@ -4,3 +4,6 @@ Ankita
 Javed
 Punam
 Sarfraz
+
+Note1: After creating the SQL table, the required username and password should be entered as per requirement
+Note2: Additonally, the jdbc related jar file need to be removed from build path and added once again to get correct path
